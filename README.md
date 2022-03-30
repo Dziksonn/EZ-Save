@@ -8,12 +8,12 @@ Domyślnie zawiera on jeden przykład, nie należy usuwać linijki z samymi zera
 
 **Dodanie nowej gry do pliku config działa w następujący sposób:**
 
-ID;Nazwa;Scieżka do folderu z zapisami\
+ID;Nazwa;Scieżka do folderu z zapisami
 
 **ex.**\
 1;Cuphead;[User]\AppData\Roaming\Cuphead
 
-**W przypadku ścieżki wyglądającej na przykład tak:**
+**W przypadku ścieżki wyglądającej na przykład tak:** \
 C:\Users\Dziksonn\Documents\Adobe\
 **lub**\
 C:\Users\Dziksonn\AppData\Roaming\Cuphead \
