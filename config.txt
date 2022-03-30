@@ -1,0 +1,2 @@
+1;Cuphead;[User]\AppData\Roaming\Cuphead
+0;0000;0000
